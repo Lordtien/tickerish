@@ -1,0 +1,2 @@
+# tickerish
+Ticker server
