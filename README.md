@@ -11,7 +11,7 @@ Ticker server
 3. Create a virtual environment using Python 3.8 (Recommended)
    `virtualenv -p=python3.8 venv`
 
-   Install Python 3.8 if necessary.
+   Install [Python 3.8](https://www.python.org/downloads/release/python-383/) if necessary.
 
 4. Use virtual environment.
    `source venv\bin\activate`
